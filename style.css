@@ -1,0 +1,10 @@
+body {
+    background-image: url('IMG_9321.HEIC'); /* Path to your small background image */
+    background-repeat: repeat; /* This will repeat the background image both horizontally and vertically */
+}
+
+.content {
+    text-align: center; /* This will center the content horizontally */
+    margin-top: 20%; /* Adjust this value to move the content vertically */
+    color: white; /* This will make the text color white for better visibility */
+}
